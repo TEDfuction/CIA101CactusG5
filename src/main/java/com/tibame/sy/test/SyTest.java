@@ -2,9 +2,13 @@ package com.tibame.sy.test;
 
 public class SyTest {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	private String uw ;
+	private String ua;
+	public String getUa() {
+		return ua;
+	}
+	public void setUa(String ua) {
+		this.ua = ua;
 	}
 
 }
